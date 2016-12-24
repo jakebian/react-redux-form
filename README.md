@@ -83,7 +83,6 @@ class App extends React.Component {
 ```jsx
 // ./components/my-form-component.js'
 import React from 'react';
-import { connect } from 'react-redux';
 import { Control, Form } from 'react-redux-form';
 
 class MyForm extends React.Component {
